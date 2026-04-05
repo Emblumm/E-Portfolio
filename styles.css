@@ -272,7 +272,7 @@ nav {
 /* TECH STACK */
 
 .language {
-  width: 25%;
+  width: calc(100% / 3);
   display: flex;
   justify-content: center;
   position: relative;
